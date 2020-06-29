@@ -3,4 +3,4 @@ build:
     - go
 
 run:
-  web: africa'stalking ussd
+  web: "africa'stalking ussd"
