@@ -8,6 +8,7 @@ This project takes advantage of many popular libraries and tools.
  
  * Tech stack
       * [echo framework](https://echo.labstack.com/)
+      * [net/http](https://golang.org/pkg/net/http)
  
  * Architecture
       * [API clean architecture](https://hackernoon.com/how-to-create-golang-rest-api-project-layout-configuration-part-1-am733yi7)
