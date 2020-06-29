@@ -24,7 +24,7 @@ This project takes advantage of many popular libraries and tools.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure you fmt your code
 
 ## License
 [MIT](https://github.com/Iampato/Go-by-Example/blob/master/LICENSE)
